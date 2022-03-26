@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_LXI_INSTRUMENT_PATH/package/foo/Config.in"

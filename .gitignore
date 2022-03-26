@@ -1,0 +1,6 @@
+# Vagrant VM
+.vagrant/
+
+# Log files
+*.log
+

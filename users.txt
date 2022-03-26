@@ -1,0 +1,1 @@
+pi -1 pi -1 =raspberry /home/foo /bin/sh adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,storage,calibration,gpio,i2c,spi Development user
