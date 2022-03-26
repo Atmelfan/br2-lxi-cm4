@@ -5,4 +5,4 @@ config BR2_PACKAGE_FOO
 	help
 		This is a comment that explains what foo is.
 		
-		http://foosoftware.org/foo/
+		https://github.com/Atmelfan/foo
